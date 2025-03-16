@@ -13,6 +13,7 @@
     "@iconify-json/lucide": "^1.2.30",
     "@iconify-json/tabler": "^1.2.17",
     "@nuxt/ui": "^3.0.0",
+    "@vercel/kv": "^3.0.0",
     "nuxt": "^3.16.0",
     "typescript": "^5.8.2",
     "vue": "^3.5.13",
